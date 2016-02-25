@@ -2,34 +2,35 @@ XTerm*termName:         xterm-256color
 Xcursor.theme: default
 
 
-*background:	#000000
-*color0:	#000000
-*color1:	#aa0000
-*color2:	#00aa00
-*color3:	#aa5500
-*color4:	#4040ff
-*color5:	#aa00aa
-*color6:	#00aaaa
-*color7:	#cacaca
-*color8:	#555555
-*color9:	#ff5555
-*color10:	#55ff55
-*color11:	#ffff55
-*color12:	#5386ff
-*color13:	#ff55ff
-*color14:	#00ffff
-*color15:	#ffffff
+!*background:	#000000
+!*foreground:	#c0c0c0
+!*color0:	#000000
+!*color1:	#aa0000
+!*color2:	#00aa00
+!*color3:	#aa5500
+!*color4:	#4040ff
+!*color5:	#aa00aa
+!*color6:	#00aaaa
+!*color7:	#cacaca
+!*color8:	#555555
+!*color9:	#ff5555
+!*color10:	#55ff55
+!*color11:	#ffff55
+!*color12:	#5386ff
+!*color13:	#ff55ff
+!*color14:	#00ffff
+!*color15:	#ffffff
 *cursorColor:	#8a8a8a
 !*customization:	-color
 *fadeColor:	#1c1c1c
 *fading:	20
-*foreground:	#c0c0c0
 *colorBD:   #ffffff
 *pointerColorBackground:	#585858
 *pointerColorForeground:	#8a8a8a
 
 #include ".Xresources.d/urxvt"
 #include ".Xresources.d/rofi"
+#include ".Xresources.d/gruvbox-colors"
 
 Xft.autohint: 0
 Xft.lcdfilter:  lcddefault
