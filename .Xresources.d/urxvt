@@ -1,0 +1,71 @@
+URxvt.scrollBar: False
+!URxvt.font: xft:TerminusX:pixelsize=10:antialias=false
+!URxvt.boldFont: xft:TerminusX:pixelsize=10:style=Bold:antialias=false
+
+!URxvt.font: xft:Terminusmodx:pixelsize=10:antialias=false
+!URxvt.boldFont: xft:Terminusmodx:pixelsize=10:style=Bold:antialias=false
+
+!URxvt.font: xft:Terminusmodx:pixelsize=10:antialias=false
+!URxvt.boldFont: xft:Terminusmodx:pixelsize=10:style=Bold:antialias=false
+
+!URxvt.font: xft:Terminus (TTF):size=10:antialias=true
+!URxvt.boldFont: xft:Terminus (TTF):size=10:style=Bold:antialias=true
+!URxvt.italicFont: xft:Terminus (TTF):size=10:style=Italic:antialias=true
+
+!URxvt.font: xft:Envy Code R:size=10:antialias=true
+!URxvt.boldFont: xft:Envy Code R:size=10:style=Bold:antialias=true
+!URxvt.italicFont: xft:Envy Code R:size=10:style=Italic:antialias=true
+
+URxvt.font: xft:Fantasque Sans Mono:size=11:style=Regular
+URxvt.boldFont: xft:Fantasque Sans Mono:size=11:style=Bold
+URxvt.italicFont: xft:Fantasque Sans Mono:size=11:style=Italic
+URxvt.boldItalicFont: xft:Fantasque Sans Mono:size=11:style=Bold Italic
+
+!URxvt.font: xft:DejaVu Sans Mono:size=9:style=Book:antialias=true
+!URxvt.boldFont: xft:DejaVu Sans Mono:size=9:style=Bold:antialias=true
+!URxvt.italicFont: xft:DejaVu Sans Mono:size=9:style=Oblique:antialias=true
+
+URxvt.transparent: on
+URxvt.shading: 20
+URxvt.internalBorder: 1
+URxvt.termName: xterm-256color
+!URxvt.termName: rxvt-unicode
+!URxvt.termName: rxvt-unicode-256color
+URxvt.iso14755: true
+URxvt.iso14755_52: false
+URxvt.saveLines: 8192
+
+!URxvt.perl-ext-common:  default,matcher
+URxvt.perl-ext-common:      default,clipboard,url-select,keyboard-select
+URxvt.urlLauncher:      chromium
+URxvt.url-select.launcher:  chromium
+URxvt.url-select.underline: true
+URxvt.keysym.M-u:           perl:url-select:select_next
+URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+URxvt.keysym.M-s:           perl:keyboard-select:search
+URxvt.matcher.button:   1
+URxvt.urgentOnBell:     True
+
+URxvt.scrollTtyOutput: False
+URxvt.scrollWithBuffer: True
+URxvt.scrollTtyKeypress: True
+
+!URxvt.keysym.KP_Add:    +
+!URxvt.keysym.KP_Subtract: -
+!URxvt.keysym.KP_Multiply: *
+!URxvt.keysym.KP_Divide  : /
+!URxvt.keysym.KP_Decimal : .
+!URxvt.keysym.KP_Separator : ,
+!!URxvt.keysym.KP_Enter : \n
+!URxvt.keysym.KP_1:      1
+!URxvt.keysym.KP_2:      2
+!URxvt.keysym.KP_3:      3
+!URxvt.keysym.KP_4:      4
+!URxvt.keysym.KP_5:      5
+!URxvt.keysym.KP_6:      6
+!URxvt.keysym.KP_7:      7
+!URxvt.keysym.KP_8:      8
+!URxvt.keysym.KP_9:      9
+!URxvt.keysym.KP_0:      0
+URxvt.keysym.Pause:    export TERM=xterm\n
+
