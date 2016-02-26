@@ -27,6 +27,7 @@ URxvt.boldItalicFont: xft:Fantasque Sans Mono:size=11:style=Bold Italic
 
 URxvt.transparent: on
 URxvt.shading: 20
+URxvt.fading: 20
 URxvt.internalBorder: 1
 URxvt.termName: xterm-256color
 !URxvt.termName: rxvt-unicode
