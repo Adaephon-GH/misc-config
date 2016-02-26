@@ -68,11 +68,11 @@
     # geometry = "300x5-30+20"
     #geometry = "0x10-24-40"
     #geometry = "760x10+900+40"
-    geometry = "0x10-24+24"
+    geometry = "1000x10-24+24"
     
     # Shrink window if it's smaller than the width.  Will be ignored if
     # width is 0.
-    shrink = no
+    shrink = yes
     
     # The transparency of the window.  Range: [0; 100].
     # This option will only work if a compositing windowmanager is
