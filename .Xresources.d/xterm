@@ -1,0 +1,16 @@
+XTerm.scrollBar: False
+
+XTerm.font: xft:Fantasque Sans Mono:pixelsize=18:style=Regular
+XTerm.boldFont: xft:Fantasque Sans Mono:pixelsize=18:style=Bold
+XTerm.italicFont: xft:Fantasque Sans Mono:pixelsize=18:style=Italic
+XTerm.boldItalicFont: xft:Fantasque Sans Mono:pixelsize=18:style=Bold Italic
+
+XTerm.cursorBlink: True
+XTerm.termName: xterm-256color
+XTerm.saveLines: 8192
+
+XTerm.bellIsUrgent: True
+
+XTerm.scrollTtyOutput: False
+XTerm.scrollKey: True
+
