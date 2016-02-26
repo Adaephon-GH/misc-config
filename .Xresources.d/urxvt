@@ -20,6 +20,8 @@ URxvt.font: xft:Fantasque Sans Mono:size=11:style=Regular
 URxvt.boldFont: xft:Fantasque Sans Mono:size=11:style=Bold
 URxvt.italicFont: xft:Fantasque Sans Mono:size=11:style=Italic
 URxvt.boldItalicFont: xft:Fantasque Sans Mono:size=11:style=Bold Italic
+URxvt.letterSpace: -2
+URxvt.skipBuiltinGlyphs: True
 
 !URxvt.font: xft:DejaVu Sans Mono:size=9:style=Book:antialias=true
 !URxvt.boldFont: xft:DejaVu Sans Mono:size=9:style=Bold:antialias=true
@@ -29,7 +31,7 @@ URxvt.cursorBlink: True
 URxvt.transparent: True
 URxvt.shading: 20
 URxvt.fading: 20
-URxvt.internalBorder: 1
+URxvt.internalBorder: 3
 URxvt.termName: xterm-256color
 !URxvt.termName: rxvt-unicode
 !URxvt.termName: rxvt-unicode-256color
