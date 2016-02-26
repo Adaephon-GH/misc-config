@@ -1,4 +1,8 @@
-! Gruvbox
+! gruvbox
+! Original Vim colorscheme by Pavel Pertsev (morhetz)
+!   https://github.com/morhetz/gruvbox
+! Xresources from Petar Radǒsević (wunki)
+!   https://github.com/wunki/wunki-dotfiles/blob/master/xorg/gruvbox.rxvt.colors
 ! hard contrast: *background: #1d2021
 ! medium contrast: *background: #282828
 ! soft contrast: *background: #32302f
