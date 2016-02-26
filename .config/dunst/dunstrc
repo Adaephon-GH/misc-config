@@ -265,3 +265,8 @@
     summary = "*"
     script = hipchat-urgency.sh
     background = "#2B96FD"
+
+[alerts]
+    appname = notify-send
+    summary = "ALERT *"
+    script = alert.sh
