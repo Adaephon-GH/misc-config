@@ -259,3 +259,9 @@
 #    summary = *twitter.com*
 #    urgency = normal
 #
+
+[hipchat]
+    appname = HipChat
+    summary = "*"
+    script = hipchat-urgency.sh
+    background = "#2B96FD"
