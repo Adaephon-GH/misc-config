@@ -4,9 +4,9 @@
 ! Original Source: https://github.com/morhetz/gruvbox-generalized
 ! -----------------------------------------------------------------------------
 
-! hard contrast: *background: #1d2021
+! hard contrast:   *background: #1d2021
 ! medium contrast: *background: #282828
-! soft contrast: *background: #32302f
+! soft contrast:   *background: #32302f
 *background: #1d2021
 *foreground: #ebdbb2
 ! Black + DarkGrey
@@ -28,8 +28,8 @@
 *color5:  #b16286
 *color13: #d3869b
 ! DarkCyan + Cyan
-*color6: #689d6a
+*color6:  #689d6a
 *color14: #8ec07c
 ! LightGrey + White
-*color7: #a89984
+*color7:  #a89984
 *color15: #fdf4c1
