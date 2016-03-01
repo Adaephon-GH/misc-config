@@ -20,7 +20,7 @@ URxvt.font: xft:Fantasque Sans Mono:size=11:style=Regular
 URxvt.boldFont: xft:Fantasque Sans Mono:size=11:style=Bold
 URxvt.italicFont: xft:Fantasque Sans Mono:size=11:style=Italic
 URxvt.boldItalicFont: xft:Fantasque Sans Mono:size=11:style=Bold Italic
-URxvt.letterSpace: -2
+URxvt.letterSpace: -1
 URxvt.skipBuiltinGlyphs: True
 
 !URxvt.font: xft:DejaVu Sans Mono:size=9:style=Book:antialias=true
