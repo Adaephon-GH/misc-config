@@ -1,5 +1,14 @@
 [options]
 font = Fantasque Sans Mono 11
+allow_bold = true
+browser = chromium
+clickable_url = true
+dynamic_title = true
+scrollback_lines = 10000
+scroll_on_keystroke = true
+scroll_on_output = false
+urgent_on_bell = true
+audible_bell = false
 
 [colors]
 #background = #1d2021
@@ -22,3 +31,5 @@ color12 = #83a598
 color13 = #d3869b
 color14 = #8ec07c
 color15 = #fdf4c1
+
+# vim: ft=dosini cms=#%s
