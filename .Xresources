@@ -1,15 +1,6 @@
-Xcursor.theme: default
-
-!*customization:	-color
-
+#include ".Xresources.d/xcursor"
 #include ".Xresources.d/urxvt"
 #include ".Xresources.d/xterm"
 #include ".Xresources.d/rofi"
 #include ".Xresources.d/gruvbox-colors"
-
-Xft.autohint: 0
-Xft.lcdfilter:  lcddefault
-Xft.hintstyle:  hintslight
-Xft.hinting: 1
-Xft.antialias: 1
-Xft.rgba: rgb
+#include ".Xresources.d/xft"
