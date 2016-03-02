@@ -1,3 +1,10 @@
+gtk-theme-name = "Adwaita"
+style "user-font"
+{
+	font_name="Cantarell 11"
+}
+widget_class "*" style "user-font"
+
 # Workaround for ugly borders in gvim 
 style "vimfix" {
   bg[NORMAL] = "#1d2021" # this matches my gvim theme 'Normal' bg color.
