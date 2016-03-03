@@ -12,8 +12,7 @@ audible_bell = false
 
 [colors]
 #background = #1d2021
-background = rgba(29, 32, 33, 0.9)
-#background = rgba(0,0,0, 0.8)
+background = rgba(33, 36, 37, 0.9)
 foreground = #ebdbb2
 color0 =  #282828
 color1 =  #cc241d
