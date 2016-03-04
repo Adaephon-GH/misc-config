@@ -1,5 +1,5 @@
 [options]
-font = Fantasque Sans Mono 11
+font = Fantasque Sans Mono 10
 allow_bold = true
 browser = chromium
 clickable_url = true
