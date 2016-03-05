@@ -4,3 +4,4 @@
 #include ".Xresources.d/rofi"
 #include ".Xresources.d/gruvbox-colors"
 #include ".Xresources.d/xft"
+#include ".Xresources.d/local"
