@@ -13,7 +13,7 @@ rofi.lines: 10
 rofi.separator-style: solid
 rofi.markup-rows: False
 rofi.font: monofur for Powerline 11
-rofi.terminal: urxvtc
+rofi.terminal: termite
 rofi.levenshtein-sort: False
 rofi.glob: False
 
