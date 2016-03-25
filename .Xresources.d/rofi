@@ -16,8 +16,3 @@ rofi.font: monofur for Powerline 11
 rofi.terminal: termite
 rofi.levenshtein-sort: False
 rofi.glob: False
-
-! keys for rofi, optimized for Neo2
-rofi.key-run:     SuperL+p
-rofi.key-window:  SuperL+odiaeresis
-rofi.key-ssh:     SuperL+adiaeresis
