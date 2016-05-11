@@ -1,7 +1,7 @@
 [options]
 font = Fantasque Sans Mono 10
 allow_bold = true
-browser = chromium
+browser = firefox
 clickable_url = true
 dynamic_title = true
 scrollback_lines = 10000
