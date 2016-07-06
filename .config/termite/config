@@ -14,21 +14,29 @@ audible_bell = false
 #background = #1d2021
 background = rgba(33, 36, 37, 0.9)
 foreground = #ebdbb2
-color0 =  #1d2021
+# Black + DarkGrey
+color0 =  #282828
+color8 =  #504945
+# DarkRed + Red
 color1 =  #cc241d
-color2 =  #98971a
-color3 =  #d79921
-color4 =  #458588
-color5 =  #b16286
-color6 =  #689d6a
-color7 =  #a89984
-color8 =  #928374
 color9 =  #fb4934
+# DarkGreen + Green
+color2 =  #98971a
 color10 = #b8bb26
+# DarkYellow + Yellow
+color3 =  #d79921
 color11 = #fabd2f
+# DarkBlue + Blue
+color4 =  #458588
 color12 = #83a598
+# DarkBlue + Blue
+color5 =  #b16286
 color13 = #d3869b
+# DarkCyan + Cyan
+color6 =  #689d6a
 color14 = #8ec07c
+# LightGrey + White
+color7 =  #bdae93
 color15 = #fbf1c7
 
 # vim: ft=dosini cms=#%s
