@@ -1,9 +1,20 @@
+# general temporary and backup files
 *.bak
-.*.sw[ponml]
 *~
+
+# VIM swap files
+.*.sw[ponml]
+
+# Intellij IDEA
 .idea/*
+
+# compiled Python files and caches
 .py[cod]
 __pycache__
-.ropeproject
 *.egg-info
+
+# Rope
+.ropeproject
+
+# pyenv local settings
 .python-version
