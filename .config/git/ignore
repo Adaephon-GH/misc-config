@@ -9,9 +9,12 @@
 .idea/*
 
 # compiled Python files and caches
-.py[cod]
+*.py[cod]
 __pycache__
 *.egg-info
+
+# pytest
+.cache
 
 # Rope
 .ropeproject
