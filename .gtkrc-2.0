@@ -1,7 +1,7 @@
 gtk-theme-name = "Adwaita"
 style "user-font"
 {
-	font_name="Cantarell 11"
+	font_name="DejaVu Sans 11"
 }
 widget_class "*" style "user-font"
 
