@@ -21,3 +21,6 @@ __pycache__
 
 # pyenv local settings
 .python-version
+
+# Tox working directory
+.tox
