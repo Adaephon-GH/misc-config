@@ -24,3 +24,6 @@ __pycache__
 
 # Tox working directory
 .tox
+
+# Jetbrains IDE config
+.idea
