@@ -1,0 +1,63 @@
+/* Show title of unread tabs with red and italic font */
+/*
+:root.sidebar tab-item.unread .label-content {
+  color: red !important;
+  font-style: italic !important;
+}
+*/
+
+/* Add private browsing indicator per tab */
+/*
+:root.sidebar tab-item.private-browsing tab-label:before {
+  content: "🕶";
+}
+*/
+
+/* hide the close button */
+tab-item tab-closebox {
+  display: none;
+}
+
+/* make label on the active tab bold */
+tab-item.active .label-content {
+  font-weight: bold !important;
+}
+
+/* underline tabs with container color */
+.contextual-identity-marker {
+  top: auto !important;
+  left: 0.5em !important;
+  right: 0.5em !important;
+  bottom: 0 !important;
+  width: auto !important;
+  margin: 0 !important;
+  max-width: none !important;
+  height: calc(var(--favicon-size) / 10) !important;
+}
+  /* change the base box to layout position:absolute box, from the root container box to the tab item */
+:root.group-tab li {
+  position: relative;
+}
+
+/* Configure TST Active Tab in Collapsed Tree */
+::part(extra-contents-by-tst-active-tab-in-collapsed-tree_piro_sakura_ne_jp tab-container) {
+  margin-left: 30%;
+}
+::part(extra-contents-by-tst-active-tab-in-collapsed-tree_piro_sakura_ne_jp tab) {
+  background: #282828;
+  font-size: 80%;
+}
+
+/* hide the new tab button 
+.newtab-button-box {
+  display: none;
+}
+#tabbar {
+  bottom: 0 !important; 
+}*/
+
+
+/* background for favicons */
+tab-item:not(.faviconized):not(.loading) tab-favicon {
+  background: #fff9 ;
+}
