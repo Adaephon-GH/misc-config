@@ -1,7 +1,7 @@
 [options]
 font = Fantasque Sans Mono 10
 allow_bold = true
-browser = firefox
+browser = xdg-open
 clickable_url = true
 dynamic_title = true
 scrollback_lines = 10000

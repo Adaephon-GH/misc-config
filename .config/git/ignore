@@ -15,9 +15,16 @@ __pycache__
 
 # pytest
 .cache
+pytest-report.xml
 
 # Rope
 .ropeproject
 
 # pyenv local settings
 .python-version
+
+# Tox working directory
+.tox
+
+# Jetbrains IDE config
+.idea
