@@ -62,6 +62,11 @@ tab-item tab-favicon {
   margin-right:4px;
 }
 tab-item:not(.group-tab):not(.loading) tab-favicon img {
+    /*background-color: currentcolor;
+    border-radius: 3px;
+    box-shadow: 2px 2px 1px, 2px -2px 1px, -2px -2px 1px, -2px 2px 1px;
+    box-shadow: 0 0 1px;
+    border: solid 1px;*/
     filter:drop-shadow(0 0 0px) drop-shadow(0 0 1px) drop-shadow(0 0 2px) drop-shadow(0 0 3px); drop-shadow(0 0 3px);
 }
 tab-item.group-tab:not(.loading) tab-favicon img {
