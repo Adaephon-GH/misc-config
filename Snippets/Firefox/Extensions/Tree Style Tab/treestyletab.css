@@ -61,10 +61,9 @@ tab-item.active .label-content {
 tab-item tab-favicon {
   margin-right:4px;
 }
-tab-item:not(.loading) tab-favicon img {
+tab-item:not(.group-tab):not(.loading) tab-favicon img {
     filter:drop-shadow(0 0 0px) drop-shadow(0 0 1px) drop-shadow(0 0 2px) drop-shadow(0 0 3px); drop-shadow(0 0 3px);
-    /*filter:drop-shadow(0 0 1px) drop-shadow(1px 1px 2px) drop-shadow(-1px -1px 2px) drop-shadow(-1px 1px 2px) drop-shadow(1px -1px 2px);*/
-    /*filter:drop-shadow(1px 1px 2px) drop-shadow(-1px -1px 2px) drop-shadow(-1px 1px 2px) drop-shadow(1px -1px 2px);*/
-    /*filter:drop-shadow(1px 0px 3px) drop-shadow(-1px 0px 3px) drop-shadow(0px 1px 3px) drop-shadow(0px -1px 3px);*/
-    /*filter:drop-shadow(0px 0px 2px) drop-shadow(0px 0px 1px) drop-shadow(0px 0px 4px);/* drop-shadow(2px -2px 2px);*/
+}
+tab-item.group-tab:not(.loading) tab-favicon img {
+  filter:drop-shadow(0px 0px 1px) drop-shadow(0px 0px 1px) drop-shadow(0px 0px 1px);
 }
