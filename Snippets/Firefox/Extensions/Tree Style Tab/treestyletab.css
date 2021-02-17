@@ -58,6 +58,11 @@ tab-item.active .label-content {
 
 
 /* background for favicons */
-tab-item:not(.faviconized):not(.loading) tab-favicon {
-  background: #fff9 ;
+tab-item:not(.loading) tab-favicon {
+  /*background: #fffa ;
+  border-radius: 4px;
+  box-shadow: 2px 2px 2px, -2px -2px 2px, -2px 2px 2px, 2px -2px 2px;*/
+}
+tab-item:not(.loading) tab-favicon img {
+  filter:drop-shadow(1px 1px 1px) drop-shadow(-1px -1px 1px) drop-shadow(-1px 1px 1px) drop-shadow(1px -1px 1px);
 }
