@@ -1,0 +1,64 @@
+{
+  "applyThemeColorToIcon": true,
+  "cachedExternalAddons": [
+    "tst-colored-tabs@murz",
+    "{724545b6-7e17-4fa2-96e0-71eddf3c3319}",
+    "tst-active-tab-in-collapsed-tree@piro.sakura.ne.jp",
+    "{ad983116-67d4-49d3-85ff-e7f46ab73dac}"
+  ],
+  "chunkedUserStyleRules0": "LyogU2hvdyB0aXRsZSBvZiB1bnJlYWQgdGFicyB3aXRoIHJlZCBhbmQgaXRhbGljIGZvbnQgKi8KLyoKOnJvb3Quc2lkZWJhciB0YWItaXRlbS51bnJlYWQgLmxhYmVsLWNvbnRlbnQgewogIGNvbG9yOiByZWQgIWltcG9ydGFudDsKICBmb250LXN0eWxlOiBpdGFsaWMgIWltcG9ydGFudDsKfQoqLwoKLyogQWRkIHByaXZhdGUgYnJvd3NpbmcgaW5kaWNhdG9yIHBlciB0YWIgKi8KLyoKOnJvb3Quc2lkZWJhciB0YWItaXRlbS5wcml2YXRlLWJyb3dzaW5nIHRhYi1sYWJlbDpiZWZvcmUgewogIGNvbnRlbnQ6ICLwn5W2IjsKfQoqLwoKLyogaGlkZSB0aGUgY2xvc2UgYnV0dG9uICovCnRhYi1pdGVtIHRhYi1jbG9zZWJveCB7CiAgZGlzcGxheTogbm9uZTsKfQoKLyogbWFrZSBsYWJlbCBvbiB0aGUgYWN0aXZlIHRhYiBib2xkICovCnRhYi1pdGVtLmFjdGl2ZSAubGFiZWwtY29udGVudCB7CiAgZm9udC13ZWlnaHQ6IGJvbGQgIWltcG9ydGFudDsKfQoKLyogdW5kZXJsaW5lIHRhYnMgd2l0aCBjb250YWluZXIgY29sb3IgKi8KLmNvbnRleHR1YWwtaWRlbnRpdHktbWFya2VyIHsKICB0b3A6IGF1dG8gIWltcG9ydGFudDsKICBsZWZ0OiAwLjVlbSAhaW1wb3J0YW50OwogIHJpZ2h0OiAwLjVlbSAhaW1wb3J0YW50OwogIGJvdHRvbTogMCAhaW1wb3J0YW50OwogIHdpZHRoOiBhdXRvICFpbXBvcnRhbnQ7CiAgbWFyZ2luOiAwICFpbXBvcnRhbnQ7CiAgbWF4LXdpZHRoOiBub25lICFpbXBvcnRhbnQ7CiAgaGVpZ2h0OiBjYWxjKHZhcigtLWZhdmljb24tc2l6ZSkgLyAxMCkgIWltcG9ydGFudDsKfQogIC8qIGNoYW5nZSB0aGUgYmFzZSBib3ggdG8gbGF5b3V0IHBvc2l0aW9uOmFic29sdXRlIGJveCwgZnJvbSB0aGUgcm9vdCBjb250YWluZXIgYm94IHRvIHRoZSB0YWIgaXRlbSAqLwo6cm9vdC5ncm91cC10YWIgbGkgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKfQoKLyogQ29uZmlndXJlIFRTVCBBY3RpdmUgVGFiIGluIENvbGxhcHNlZCBUcmVlICovCjo6cGFydChleHRyYS1jb250ZW50cy1ieS10c3QtYWN0aXZlLXRhYi1pbi1jb2xsYXBzZWQtdHJlZV9waXJvX3Nha3VyYV9uZV9qcCB0YWItY29udGFpbmVyKSB7CiAgbWFyZ2luLWxlZnQ6IDMwJTsKfQo6OnBhcnQoZXh0cmEtY29udGVudHMtYnktdHN0LWFjdGl2ZS10YWItaW4tY29sbGFwc2VkLXRyZWVfcGlyb19zYWt1cmFfbmVfanAgdGFiKSB7CiAgYmFja2dyb3VuZDogIzI4MjgyODsKICBmb250LXNpemU6IDgwJTsKfQoKLyogaGlkZSB0aGUgbmV3IHRhYiBidXR0b24gCi5uZXd0YWItYnV0dG9uLWJveCB7CiAgZGlzcGxheTogbm9uZTsKfQojdGFiYmFyIHsKICBib3R0b206IDAgIWltcG9ydGFudDsgCn0qLwoKCi8qIGJhY2tncm91bmQgZm9yIGZhdmljb25zICovCnRhYi1pdGVtIHRhYi1mYXZpY29uIHsKICBtYXJnaW4tcmlnaHQ6NHB4Owp9CnRhYi1pdGVtOm5vdCguZ3JvdXAtdGFiKTpub3QoLmxvYWRpbmcpIHRhYi1mYXZpY29uIGltZyB7CiAgLypiYWNrZ3JvdW5kLWNvbG9yOiBjdXJyZW50Y29sb3I7CiAgYm9yZGVyLXJhZGl1czogM3B4OwogIGJveC1zaGFkb3c6IDJweCAycHggMXB4LCAycHggLTJweCAxcHgsIC0ycHggLTJweCAxcHgsIC0ycHggMnB4IDFweDsKICBib3gtc2hhZG93OiAwIDAgMXB4OwogIGJvcmRlcjogc29saWQgMXB4OyovCiAgZmlsdGVyOmRyb3Atc2hhZG93KDAgMCAwcHgpIGRyb3Atc2hhZG93KDAgMCAxcHgpIGRyb3Atc2hhZG93KDAgMCAycHgpIGRyb3Atc2hhZG93KDAgMCAzcHgpOyBkcm9wLXNoYWRvdygwIDAgM3B4KTsKfQp0YWItaXRlbS5ncm91cC10YWI6bm90KC5sb2FkaW5nKSB0YWItZmF2aWNvbiBpbWcsCjo6cGFydChleHRyYS1jb250ZW50cy1ieS10c3QtYWN0aXZlLXRhYi1pbi1jb2xsYXBzZWQtdHJlZV9waXJvX3Nha3VyYV9uZV9qcCBmYXZpY29uKXsKICBmaWx0ZXI6ZHJvcC1zaGFkb3coMHB4IDBweCAxcHgpIGRyb3Atc2hhZG93KDBweCAwcHggMXB4KSBkcm9wLXNoYWRvdygwcHggMHB4IDFweCk7Cn0K",
+  "configsVersion": 20,
+  "grantedRemovingTabIds": [
+    127,
+    128,
+    129,
+    132,
+    124
+  ],
+  "lastConfirmedToCloseTabs": 1613555072431,
+  "lastDraggedTabs": {
+    "tabIds": [
+      2
+    ],
+    "urlsDigest": "1096c124b802db195047a967459747b4424a660f"
+  },
+  "notifiedFeaturesVersion": 7,
+  "optionsExpandedGroups": [
+    "group-allConfigs"
+  ],
+  "optionsExpandedSections": [
+    "section-appearance",
+    "section-advanced",
+    "section-addons",
+    "section-debug",
+    "section-contextMenu",
+    "section-treeBehavior",
+    "section-newTab"
+  ],
+  "showExpertOptions": true,
+  "syncDeviceInfo": {
+    "id": "device-1613032565478-39633",
+    "name": "Firefox on Linux",
+    "icon": "device-desktop",
+    "timestamp": 1613508784119
+  },
+  "syncDevices": {
+    "device-1613032565478-39633": {
+      "id": "device-1613032565478-39633",
+      "name": "Firefox on Linux",
+      "icon": "device-desktop",
+      "timestamp": 1613508784119
+    }
+  },
+  "syncDevicesLocalCache": {
+    "device-1613032565478-39633": {
+      "id": "device-1613032565478-39633",
+      "name": "Firefox on Linux",
+      "icon": "device-desktop",
+      "timestamp": 1613508784119
+    }
+  },
+  "treeDoubleClickBehavior": 1,
+  "userStyleRules": "",
+  "userStyleRulesFieldHeight": "865px"
+}
