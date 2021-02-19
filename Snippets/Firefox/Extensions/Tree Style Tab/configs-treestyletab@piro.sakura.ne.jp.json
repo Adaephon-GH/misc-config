@@ -1,5 +1,6 @@
 {
   "applyThemeColorToIcon": true,
+  "autoCollapseExpandSubtreeOnAttach": false,
   "cachedExternalAddons": [
     "tst-colored-tabs@murz",
     "{724545b6-7e17-4fa2-96e0-71eddf3c3319}",
@@ -13,9 +14,22 @@
     128,
     129,
     132,
-    124
+    124,
+    32,
+    33,
+    142,
+    109,
+    110,
+    144,
+    145,
+    173,
+    116,
+    7,
+    8,
+    9,
+    10
   ],
-  "lastConfirmedToCloseTabs": 1613555072431,
+  "lastConfirmedToCloseTabs": 1613642662512,
   "lastDraggedTabs": {
     "tabIds": [
       2
@@ -40,14 +54,14 @@
     "id": "device-1613032565478-39633",
     "name": "Firefox on Linux",
     "icon": "device-desktop",
-    "timestamp": 1613508784119
+    "timestamp": 1613663393983
   },
   "syncDevices": {
     "device-1613032565478-39633": {
       "id": "device-1613032565478-39633",
       "name": "Firefox on Linux",
       "icon": "device-desktop",
-      "timestamp": 1613508784119
+      "timestamp": 1613663393983
     }
   },
   "syncDevicesLocalCache": {
@@ -55,7 +69,7 @@
       "id": "device-1613032565478-39633",
       "name": "Firefox on Linux",
       "icon": "device-desktop",
-      "timestamp": 1613508784119
+      "timestamp": 1613663393983
     }
   },
   "treeDoubleClickBehavior": 1,
