@@ -23,21 +23,22 @@ tab-item.active .label-content {
   font-weight: bold !important;
 }
 
-/* underline tabs with container color */
-.contextual-identity-marker {
-  top: auto !important;
-  left: 0.5em !important;
-  right: 0.5em !important;
+/* add bar in container color to the right */
+:root.sidebar .contextual-identity-marker {
+  top: 0 !important;
+  right: 0em !important;
   bottom: 0 !important;
-  width: auto !important;
+  width: 0.7em !important;
+  mask-image: linear-gradient(to left, #000000FF,#000000FF, #00000000);
   margin: 0 !important;
-  max-width: none !important;
-  height: calc(var(--favicon-size) / 10) !important;
+  z-index: 0;
+  
 }
   /* change the base box to layout position:absolute box, from the root container box to the tab item */
 :root.group-tab li {
   position: relative;
 }
+
 
 /* Configure TST Active Tab in Collapsed Tree */
 ::part(extra-contents-by-tst-active-tab-in-collapsed-tree_piro_sakura_ne_jp tab-container) {
