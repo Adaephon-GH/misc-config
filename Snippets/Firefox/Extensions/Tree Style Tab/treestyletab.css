@@ -1,25 +1,19 @@
 /* Show title of unread tabs with red and italic font */
-/*
-:root.sidebar tab-item.unread .label-content {
-  color: red !important;
+
+:root.sidebar tab-item.unread tab-item-substance .label-content {
+  /*color: red !important;*/
   font-style: italic !important;
 }
-*/
 
-/* Add private browsing indicator per tab */
-/*
-:root.sidebar tab-item.private-browsing tab-label:before {
-  content: "🕶";
-}
-*/
+
 
 /* hide the close button */
-tab-item tab-closebox {
+tab-item tab-item-substance tab-closebox {
   display: none;
 }
 
 /* make label on the active tab bold */
-tab-item.active .label-content {
+tab-item.active tab-item-substance .label-content {
   font-weight: bold !important;
 }
 
@@ -58,10 +52,10 @@ tab-item.active .label-content {
 
 
 /* background for favicons */
-tab-item tab-favicon {
+tab-item tab-item-substance tab-favicon {
   margin-right:4px;
 }
-tab-item:not(.group-tab):not(.loading) tab-favicon img {
+tab-item:not(.group-tab):not(.loading) tab-item-substance tab-favicon img {
   /*background-color: currentcolor;
   border-radius: 3px;
   box-shadow: 2px 2px 1px, 2px -2px 1px, -2px -2px 1px, -2px 2px 1px;
@@ -69,12 +63,12 @@ tab-item:not(.group-tab):not(.loading) tab-favicon img {
   border: solid 1px;*/
   filter:drop-shadow(0 0 0px) drop-shadow(0 0 1px) drop-shadow(0 0 2px) drop-shadow(0 0 3px); drop-shadow(0 0 3px);
 }
-tab-item.group-tab:not(.loading) tab-favicon img,
+tab-item.group-tab:not(.loading) tab-item-substance tab-favicon img,
 ::part(extra-contents-by-tst-active-tab-in-collapsed-tree_piro_sakura_ne_jp favicon){
   filter:drop-shadow(0px 0px 1px) drop-shadow(0px 0px 1px) drop-shadow(0px 0px 1px);
 }
 
-tab-item.audible tab-sound-button {
+tab-item.audible tab-item-substance tab-sound-button {
   animation-name: blink;
   animation-duration: 2s;
   animation-iteration-count: infinite;
