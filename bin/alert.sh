@@ -1,3 +1,3 @@
 #!/bin/sh
 
-paplay /usr/share/sounds/purple/alert.wav
+paplay /usr/share/sounds/freedesktop/stereo/complete.oga
