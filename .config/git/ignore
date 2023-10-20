@@ -5,9 +5,6 @@
 # VIM swap files
 .*.sw[ponml]
 
-# Intellij IDEA
-.idea/*
-
 # compiled Python files and caches
 *.py[cod]
 __pycache__
@@ -28,3 +25,6 @@ pytest-report.xml
 
 # Jetbrains IDE config
 .idea
+
+# Ignore .venv directory
+.venv
