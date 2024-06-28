@@ -28,3 +28,9 @@ pytest-report.xml
 
 # Ignore .venv directory
 .venv
+
+# Ignore Terraform caches and locks
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+
