@@ -1,5 +1,10 @@
 [options]
-font = Fantasque Sans Mono 10
+# font = FantasqueSansM Nerd Font 12
+font = FantasqueSansM Nerd Font Mono 13
+# font = Fira Code 13
+# font = Iosevka 12
+# font = Fantasque Sans Mono 13
+# font = Symbols Nerd Font 12
 allow_bold = true
 browser = xdg-open
 clickable_url = true
