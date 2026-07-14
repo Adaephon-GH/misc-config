@@ -6,7 +6,8 @@ font = FantasqueSansM Nerd Font Mono 13
 # font = Fantasque Sans Mono 13
 # font = Symbols Nerd Font 12
 allow_bold = true
-browser = xdg-open
+# browser = xdg-open
+browser = clipstring
 clickable_url = true
 dynamic_title = true
 scrollback_lines = 10000
@@ -16,8 +17,8 @@ urgent_on_bell = true
 audible_bell = false
 
 [colors]
-#background = #1d2021
-background = rgba(33, 36, 37, 0.9)
+background = #1d2021
+# background = rgba(33, 36, 37, 0.9)
 foreground = #ebdbb2
 # Black + DarkGrey
 color0 =  #282828
