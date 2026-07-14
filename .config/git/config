@@ -14,8 +14,9 @@
 [difftool]
 	prompt = false
 [difftool "nvimdiff"]
-    cmd = "nvim -d \"$LOCAL\" \"$REMOTE\""
+	cmd = "nvim -d -c 'set diffopt+=algorithm:histogram,indent-heuristic' \"$LOCAL\" \"$REMOTE\""
 [alias]
 	vimdiff = difftool
+	nvimdiff = difftool --tool=nvimdiff
 [init]
 	defaultBranch = main
